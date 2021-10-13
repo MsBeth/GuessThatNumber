@@ -37,3 +37,6 @@ while (restartGame){
     rangeNum = parseInt(rangeNum);
   }
 
+  
+  break;
+}
